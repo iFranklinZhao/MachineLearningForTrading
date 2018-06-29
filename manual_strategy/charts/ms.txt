@@ -1,0 +1,50 @@
+In Sample
+Manual Strategy---------------------------------------
+Date Range: 2003-01-02 00:00:00 to 2004-12-31 00:00:00
+
+Sharpe Ratio of Fund: 0.90107285146
+
+Cumulative Return of Fund: 0.865552
+
+Standard Deviation of Fund: 0.0277167903117
+
+Average Daily Return of Fund: 0.00157326749841
+
+Final Portfolio Value: 186555.2
+Benchmark----------------------------------------------
+Date Range: 2003-01-02 00:00:00 to 2004-12-31 00:00:00
+
+Sharpe Ratio of Fund: 0.304838148267
+
+Cumulative Return of Fund: 0.0661254913769
+
+Standard Deviation of Fund: 0.00855114085899
+
+Average Daily Return of Fund: 0.000164207543753
+
+Final Portfolio Value: 106571.45
+Out of Sample
+Manual Strategy---------------------------------------
+Date Range: 2005-01-03 00:00:00 to 2006-12-29 00:00:00
+
+Sharpe Ratio of Fund: -0.383347194991
+
+Cumulative Return of Fund: -0.118369
+
+Standard Deviation of Fund: 0.00879221704434
+
+Average Daily Return of Fund: -0.000212319762608
+
+Final Portfolio Value: 88163.1
+Benchmark----------------------------------------------
+Date Range: 2005-01-03 00:00:00 to 2006-12-29 00:00:00
+
+Sharpe Ratio of Fund: 0.735148909178
+
+Cumulative Return of Fund: 0.139497020178
+
+Standard Deviation of Fund: 0.00600670005472
+
+Average Daily Return of Fund: 0.000278170449764
+
+Final Portfolio Value: 113870.45
