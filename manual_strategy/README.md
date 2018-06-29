@@ -1,6 +1,6 @@
 #Manual Strategy
 
-In this project, I developed a trading strategy based on technical analysis and compared it against the optimal strategy by running both thrpigh my market simulator and analyzing the outcomes.
+In this project, I developed a trading strategy based on technical analysis and compared it against the optimal strategy by running both through my market simulator and analyzing the outcomes.
 
 
 |  File Name | Purpose |
