@@ -1,4 +1,4 @@
-#Assess Learners Project
+# Assess Learners Project
 
 For this project I compared the modeling of Random Trees versus Decision Trees as well as the effect of Bootstrap Aggregation on the both of them. <br>
 
