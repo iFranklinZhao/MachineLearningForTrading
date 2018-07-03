@@ -1,4 +1,4 @@
-#Assess Portfolio
+# Assess Portfolio
 
 For this project, I implemented a function that takes in a description of a portfolio and computes the appropriate statistics on that portfolio. <br>
 
