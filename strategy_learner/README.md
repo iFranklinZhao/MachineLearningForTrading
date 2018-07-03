@@ -1,4 +1,4 @@
-#Strategy Learner
+# Strategy Learner
 
 In this project I designed a Q-Learning trading agent that uses numerical/technical indicators of a stock on each day as the state, stock position change as the action, and stock performance as the reward. <br>
 
